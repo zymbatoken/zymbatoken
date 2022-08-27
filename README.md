@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zymbatoken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in alot
+- 🌱 I’m currently learning web 3
+- 💞️ I’m looking to collaborate on web 3 Merchants
 - 📫 How to reach me at Info@zymbatoken.com
 
 <!---
